@@ -47,3 +47,6 @@ env/
 
 # IDE
 .idea
+
+# dev db
+*.db
